@@ -1,0 +1,8 @@
+# Hugo default output directory
+/public
+
+# OSX
+.DS_Store
+
+# include themes as seperate repos
+/themes
