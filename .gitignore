@@ -1,8 +1,12 @@
 # Hugo default output directory
 /public
+/dist
 
 # OSX
 .DS_Store
 
 # include themes as seperate repos
 /themes
+
+# ignore deploy script
+deploy.sh
