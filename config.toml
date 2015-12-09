@@ -1,7 +1,8 @@
-baseurl = "http://vanhoose.work/"
+baseurl = "http://ernstkui.github.io/vanhoosedotwork/"
 languageCode = "en-us"
 title = "VanHoose dot Work"
 theme = "hugo-creative-theme"
+canonifyUrls = true
 
 [params]
 
