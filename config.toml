@@ -1,7 +1,7 @@
 baseurl = "http://vanhoose.work/"
 languageCode = "en-us"
 title = "VanHoose dot Work"
-theme = "creative"
+theme = "hugo-creative-theme"
 
 [params]
 
