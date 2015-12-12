@@ -1,6 +1,6 @@
 baseurl = "http://ernstkui.github.io/vanhoosedotwork/"
 languageCode = "en-us"
-title = "VanHoose dot Work"
+title = "vanhoosedotwork"
 theme = "hugo-creative-theme"
 canonifyUrls = true
 
@@ -32,50 +32,50 @@ canonifyUrls = true
 		brand = "VanHooseDotWork"
 
 		[params.navigation.links]
-			about     = "About"
-			services  = "Services"
-			portfolio = "Portfolio"
-			contact   = "Contact"
+			about     = "+ My Work"
+			services  = "Your Work"
+			# portfolio = "Portfolio"
+			contact   = "Let's work together"
 
 
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Editor"
-		subtitle   = "also looking for a sloppy neighborhood or a job as a social designer"
+		slogan     = "VANHOOSE DOT WORK"
+		subtitle   = "Researcher with a wide range of experiences in the built environment"
 		buttonText = "Find out more"
 
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Get started!"
+		headline    = "My Work"
+		description = "Hi! My name is Katherine VanHoose and I am a designer and researcher. I see value in combining the structured and analytical methods of social science with the creative power of design to make a positive impact on issues related to cities and the built environment. A combination of content and process-based work challenges me the most, while working with others gives me energy and sparks my creativity. I have developed a variety of services aimed at non-profits, small businesses, architectural firms, academic institutions and individual authors busy with topics related to the built environment. My interdisciplinary background This wide discipline covers a range of themes, including architecture and design, real estate and housing, urban and spatial planning, as well as urban sociology and geography. I value communication and transparency. Throughout you have full discretion and are able to approach me at anytime for updates, comments or questions. With training as an architect and social science researcher, years of experience working in a number of environments with others interested in urban issues have given me a wide skillset. I offer a tangible, affordable and result-focused approach to editing and design services. I am currently based in in Utrecht, the Netherlands and serve both local clients as well as others situated throughout Europe."
+		buttonText  = "Let’s get in touch!"
 
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "Services"
 
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            icon = "fa-check-square-o"
+            title = "Editing"
+            description = "Quality English editing with a quick turn around. 30 - 35 euros/hour."
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+			icon = "fa-file-text"
+			title = "Formatting"
+			description = "Meeting citation and formatting requirements for journals. Specifically for academic and scientific authors who are preparing to submit their article to a journal."
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            icon = "fa-language"
+            title = "Translating"
+            description = "Translating services are available for texts written in Dutch that need to be translated into English. I specialize in topics directly related to the built environment. 0,06 euro cents/word."
 
         [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            icon = "fa-picture-o"
+            title = "Designing"
+            description = "Good design is a good investment. The layout service turn your bland word document into a well-designed publication based on your specifications and wishes. 50 euros per figure, flat rate."
 
 
     # Portfolio modals
@@ -95,7 +95,7 @@ canonifyUrls = true
 
 	# Contact section
 	[params.contact]
-		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		headline = "Let's work together"
+		description = "If you would like to get a quote or learn a bit more about the services I offer, please feel free to contact me!"
+		phone = "+31 (0)6 38 32 68 78"
+		email = "katherine@vanhoose.work"
