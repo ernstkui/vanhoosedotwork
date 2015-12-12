@@ -1,7 +1,8 @@
 modalID: 6
 title: Project 6
 date: 2014-07-10
-img: IMG_2256.jpg
+thumbnail: thumbnails/IMG_2256-0.jpg
+img: IMG_2256-0.jpg
 client: Start Bootstrap
 clientLink: "#"
 category: Web Development

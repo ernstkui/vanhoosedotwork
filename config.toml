@@ -87,10 +87,10 @@ canonifyUrls = true
 
     # Aside section
 	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+		headline = "More of my work"
 
 		[params.aside.button]
-			text = "Download now"
+			text = "Get my resume and portfolio"
 			link = "//github.com/digitalcraftsman/hugo-creative-theme"
 
 	# Contact section
