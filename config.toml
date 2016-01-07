@@ -32,8 +32,8 @@ canonifyUrls = true
 		brand = "VanHooseDotWork"
 
 		[params.navigation.links]
-			about     = "+ My Work"
-			services  = "Your Work"
+			about     = "My work"
+			services  = "Your work"
 			# portfolio = "Portfolio"
 			contact   = "Let's work together"
 
@@ -42,15 +42,16 @@ canonifyUrls = true
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "VANHOOSE DOT WORK"
-		subtitle   = "Researcher with a wide range of experiences in the built environment"
+		subtitle   = "Freelance designer, researcher and thinker"
 		buttonText = "Find out more"
 
 
 	# About section
 	[params.about]
-		headline    = "My Work"
-		description = "Hi! My name is Katherine VanHoose and I am a designer and researcher. I see value in combining the structured and analytical methods of social science with the creative power of design to make a positive impact on issues related to cities and the built environment. A combination of content and process-based work challenges me the most, while working with others gives me energy and sparks my creativity. I have developed a variety of services aimed at non-profits, small businesses, architectural firms, academic institutions and individual authors busy with topics related to the built environment. My interdisciplinary background This wide discipline covers a range of themes, including architecture and design, real estate and housing, urban and spatial planning, as well as urban sociology and geography. I value communication and transparency. Throughout you have full discretion and are able to approach me at anytime for updates, comments or questions. With training as an architect and social science researcher, years of experience working in a number of environments with others interested in urban issues have given me a wide skillset. I offer a tangible, affordable and result-focused approach to editing and design services. I am currently based in in Utrecht, the Netherlands and serve both local clients as well as others situated throughout Europe."
-		buttonText  = "Let’s get in touch!"
+		headline    = "About"
+		description = "Hi! My name is Katherine and I am an American currently based in Utrecht, the Netherlands. I am a designer and researcher with a passion for cities. I believe that when the structured and analytical methods of social science are combined with the creative power of design, powerful solutions to seemingly complex issues in the built environment can be reached. This approach combines communication, graphic and analytical skills, which I have developed over the past six years in both professional and academic contexts. Most interestingly, this approach is valuable on a number of scales and for a variety of projects. I creatively turn ideas into concrete results for clients with social issues in the built environment. For an idea of what this approach can mean for you, please see my work. Let's get in touch!"
+
+		buttonText  = "Download CV"
 
 
 	# Service section
@@ -58,25 +59,19 @@ canonifyUrls = true
 		headline = "Services"
 
         [[params.services.list]]
-            icon = "fa-check-square-o"
-            title = "Editing"
-            description = "Quality English editing with a quick turn around. 30 - 35 euros/hour."
+            icon = "fa-file-text-o"
+            title = "Editing and Translating"
+            description = "A fast and high-quality edit of your publication, proposal, article or text. Translating services are available from Dutch to English."
 
         [[params.services.list]]
-			icon = "fa-file-text"
-			title = "Formatting"
-			description = "Meeting citation and formatting requirements for journals. Specifically for academic and scientific authors who are preparing to submit their article to a journal."
+			icon = "fa-pencil"
+			title = "Graphic Design"
+			description = "A visually strong appearance is just as important as the content. Whether it be the layout or a specific image or diagram, let’s think together to find the best way to present your work. See my work for an idea of my graphic style."
 
 		[[params.services.list]]
-            icon = "fa-language"
-            title = "Translating"
-            description = "Translating services are available for texts written in Dutch that need to be translated into English. I specialize in topics directly related to the built environment. 0,06 euro cents/word."
-
-        [[params.services.list]]
-            icon = "fa-picture-o"
-            title = "Designing"
-            description = "Good design is a good investment. The layout service turn your bland word document into a well-designed publication based on your specifications and wishes. 50 euros per figure, flat rate."
-
+            icon = "fa-lightbulb-o"
+            title = "Consultancy"
+            description = "I have worked on a number of projects that involve complex issues related to the built enironment. My method of work involves researching and defining the problem, organizing multiple parties, and thinking of creative solutions, like in my projects 'Leegstand in Lombok' and 'Let's Talk About the Polder Again'. Depending on your project issue, let's work together to adapt this approach for you."
 
     # Portfolio modals
 	[params.portfolio.modal]
@@ -85,17 +80,9 @@ canonifyUrls = true
         category = "Category"
         buttonText = "Close"
 
-    # Aside section
-	[params.aside]
-		headline = "More of my work"
-
-		[params.aside.button]
-			text = "Get my resume and portfolio"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
-
 	# Contact section
 	[params.contact]
 		headline = "Let's work together"
-		description = "If you would like to get a quote or learn a bit more about the services I offer, please feel free to contact me!"
+		description = "If you would like to get a quote or learn a bit more about the services I offer, please feel free to contact me."
 		phone = "+31 (0)6 38 32 68 78"
-		email = "katherine@vanhoose.work"
+		email = "kavanhoose@gmail.com"
