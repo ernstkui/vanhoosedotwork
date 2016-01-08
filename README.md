@@ -35,7 +35,7 @@ Open your browser and go to:
 
 ##Deploy
 
-Fetch the deployment script into the root of your source tree,make it executable.
+Fetch the deployment script into the root of your source tree, make it executable.
 
 	wget https://github.com/ernstkui/git-directory-deploy/raw/master/deploy.sh && chmod +x deploy.sh
 

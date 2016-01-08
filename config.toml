@@ -23,10 +23,6 @@ canonifyUrls = true
 	name = "Katherine VanHoose"
 	description = "Editor Translator Designer Sociologist with a passion for cities"
 
-	# The path must be relative to the static folder
-	favicon = "favicon.ico"
-
-
 	# Navigation
 	[params.navigation]
 		brand = "VanHooseDotWork"
