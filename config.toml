@@ -48,7 +48,7 @@ canonifyUrls = true
 		description = "Hi! My name is Katherine and I am an American currently based in Utrecht, the Netherlands. I am a designer and researcher with a passion for cities. I believe that when the structured and analytical methods of social science are combined with the creative power of design, powerful solutions to seemingly complex issues in the built environment can be reached. This approach combines communication, graphic and analytical skills, which I have developed over the past six years in both professional and academic contexts. Most interestingly, this approach is valuable on a number of scales and for a variety of projects. I creatively turn ideas into concrete results for clients with social issues in the built environment. For an idea of what this approach can mean for you, please see my work. Let's get in touch!"
 
 		buttonText  = "Download CV"
-
+		buttonUrl = 'https://www.dropbox.com/s/svune2r4y24jr8f/VanHoose_CV.pdf/?raw=1'
 
 	# Service section
 	[params.services]
@@ -82,3 +82,5 @@ canonifyUrls = true
 		description = "If you would like to get a quote or learn a bit more about the services I offer, please feel free to contact me."
 		phone = "+31 (0)6 38 32 68 78"
 		email = "kavanhoose@gmail.com"
+		twitter = "katevanhoose"
+		instagram = "kavanhoose"
