@@ -45,6 +45,7 @@ canonifyUrls = true
 	# About section
 	[params.about]
 		headline    = "VanHooseDotWork"
+		profilePicture = "IMG_4585.jpg"
 		description = "Hi! My name is Katherine and I am an American currently based in Utrecht, the Netherlands. I am a designer and researcher with a passion for cities. I believe that when the structured and analytical methods of social science are combined with the creative power of design, powerful solutions to seemingly complex issues in the built environment can be reached. This approach combines communication, graphic and analytical skills, which I have developed over the past six years in both professional and academic contexts. Through these experiences, I have found this approach to be valuable on a number of scales and for a variety of projects. I creatively turn ideas into concrete results for clients with social issues in the built environment. For an idea of what this approach can mean for you, please see the services section below. Let's get in touch!"
 
 		buttonText  = "Download CV"
@@ -59,15 +60,15 @@ canonifyUrls = true
             title = "Written"
             description = "English Editing and Translating from Dutch to English. As a researcher I understand the importance of strongly communicating ideas. I have edited and translated a variety of written publications concerning themes related to the built environment on behalf of academic authors, non-profits, small businesses and individuals. A fast and high-quality edit of your publication, project proposal, article or text."
 
-        [[params.services.list]]
-			icon = "fa-pencil"
-			title = "Visual"
-			description = "Graphic design. As a trained designer, I understand the importance (and advantage) of presenting material in a visually appealing way. My experience lies in the creation of maps, communcative diagrams and layout design. Let’s think together to find the best way to present your work."
-
 		[[params.services.list]]
             icon = "fa-lightbulb-o"
             title = "Analytical"
             description = "Research and consultancy. I have collaborated on a number of projects that involve creatively approaching complex issues or uncovering interesting phenomenon related to the built enironment. My method of work is hands on: researching and defining the problem, organizing and communicating with multiple parties, searching for feasable and reasonable solutions and circulating results. Take a look at my work for an idea of what this approach can mean for you."
+
+        [[params.services.list]]
+			icon = "fa-pencil"
+			title = "Visual"
+			description = "Graphic design. As a trained designer, I understand the importance (and advantage) of presenting material in a visually appealing way. My experience lies in the creation of maps, communcative diagrams and layout design. Let’s think together to find the best way to present your work."
 
     # Portfolio modals
 	[params.portfolio.modal]
