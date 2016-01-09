@@ -44,8 +44,8 @@ canonifyUrls = true
 
 	# About section
 	[params.about]
-		headline    = "About"
-		description = "Hi! My name is Katherine and I am an American currently based in Utrecht, the Netherlands. I am a designer and researcher with a passion for cities. I believe that when the structured and analytical methods of social science are combined with the creative power of design, powerful solutions to seemingly complex issues in the built environment can be reached. This approach combines communication, graphic and analytical skills, which I have developed over the past six years in both professional and academic contexts. Most interestingly, this approach is valuable on a number of scales and for a variety of projects. I creatively turn ideas into concrete results for clients with social issues in the built environment. For an idea of what this approach can mean for you, please see my work. Let's get in touch!"
+		headline    = "VanHooseDotWork"
+		description = "Hi! My name is Katherine and I am an American currently based in Utrecht, the Netherlands. I am a designer and researcher with a passion for cities. I believe that when the structured and analytical methods of social science are combined with the creative power of design, powerful solutions to seemingly complex issues in the built environment can be reached. This approach combines communication, graphic and analytical skills, which I have developed over the past six years in both professional and academic contexts. Through these experiences, I have found this approach to be valuable on a number of scales and for a variety of projects. I creatively turn ideas into concrete results for clients with social issues in the built environment. For an idea of what this approach can mean for you, please see the services section below. Let's get in touch!"
 
 		buttonText  = "Download CV"
 		buttonUrl = 'https://www.dropbox.com/s/svune2r4y24jr8f/VanHoose_CV.pdf/?raw=1'
@@ -56,18 +56,18 @@ canonifyUrls = true
 
         [[params.services.list]]
             icon = "fa-file-text-o"
-            title = "Editing and Translating"
-            description = "A fast and high-quality edit of your publication, proposal, article or text. Translating services are available from Dutch to English."
+            title = "Written"
+            description = "English Editing and Translating from Dutch to English. As a researcher I understand the importance of strongly communicating ideas. I have edited and translated a variety of written publications concerning themes related to the built environment on behalf of academic authors, non-profits, small businesses and individuals. A fast and high-quality edit of your publication, project proposal, article or text."
 
         [[params.services.list]]
 			icon = "fa-pencil"
-			title = "Graphic Design"
-			description = "A visually strong appearance is just as important as the content. Whether it be the layout or a specific image or diagram, let’s think together to find the best way to present your work. See my work for an idea of my graphic style."
+			title = "Visual"
+			description = "Graphic design. As a trained designer, I understand the importance (and advantage) of presenting material in a visually appealing way. My experience lies in the creation of maps, communcative diagrams and layout design. Let’s think together to find the best way to present your work."
 
 		[[params.services.list]]
             icon = "fa-lightbulb-o"
-            title = "Consultancy"
-            description = "I have worked on a number of projects that involve complex issues related to the built enironment. My method of work involves researching and defining the problem, organizing multiple parties, and thinking of creative solutions, like in my projects 'Leegstand in Lombok' and 'Let's Talk About the Polder Again'. Depending on your project issue, let's work together to adapt this approach for you."
+            title = "Analytical"
+            description = "Research and consultancy. I have collaborated on a number of projects that involve creatively approaching complex issues or uncovering interesting phenomenon related to the built enironment. My method of work is hands on: researching and defining the problem, organizing and communicating with multiple parties, searching for feasable and reasonable solutions and circulating results. Take a look at my work for an idea of what this approach can mean for you."
 
     # Portfolio modals
 	[params.portfolio.modal]
@@ -79,7 +79,7 @@ canonifyUrls = true
 	# Contact section
 	[params.contact]
 		headline = "Let's work together"
-		description = "If you would like to get a quote or learn a bit more about the services I offer, please feel free to contact me."
+		description = "VanHooseDotWork is always open to new collaborations and projects. If you would like to get a quote or learn a bit more about the services I offer, please feel free to contact me."
 		phone = "+31 (0)6 38 32 68 78"
 		email = "kavanhoose@gmail.com"
 		twitter = "katevanhoose"
