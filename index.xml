@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VanHoose dot Work</title>
+    <title>vanhoosedotwork</title>
     <link>http://ernstkui.github.io/vanhoosedotwork/</link>
-    <description>Recent content on VanHoose dot Work</description>
+    <description>Recent content on vanhoosedotwork</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://ernstkui.github.io/vanhoosedotwork/index.xml" rel="self" type="application/rss+xml" />
