@@ -28,10 +28,10 @@ canonifyUrls = true
 		brand = "VanHooseDotWork"
 
 		[params.navigation.links]
-			about     = "My work"
+			portfolio = "My work"
+			# about     = ""
 			services  = "Your work"
-			# portfolio = "Portfolio"
-			contact   = "Let's work together"
+			contact   = "Let's work together."
 
 
 	# Hero section
@@ -71,17 +71,19 @@ canonifyUrls = true
 
     # Portfolio modals
 	[params.portfolio.modal]
-        collaborator = "Collaborator"
+        collaborator = "Collaborators"
         date = "Date"
         category = "Category"
         buttonText = "Close"
 
 	# Contact section
 	[params.contact]
-		headline = "Let's work together"
+		headline = "Let's work together."
 		description = "VanHooseDotWork is always open to new collaborations and projects. If you would like to get a quote or learn a bit more about the services I offer, please feel free to contact me."
 		phone = "+31 (0)6 38 32 68 78"
 		email = "kavanhoose@gmail.com"
 		twitter = "katevanhoose"
 		instagram = "kavanhoose"
 		kvknumber = "64862844"
+		pictures = "Let's Talk About the Polders Again, Merten Nefs. Re-Making City, Magnus Lundqvist"
+
