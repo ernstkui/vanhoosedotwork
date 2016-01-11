@@ -28,8 +28,8 @@ canonifyUrls = true
 		brand = "VanHooseDotWork"
 
 		[params.navigation.links]
+			about     = "About"
 			portfolio = "My work"
-			# about     = ""
 			services  = "Your work"
 			contact   = "Let's work together."
 
