@@ -38,12 +38,14 @@ a:hover {
 }
 
 #about a {
+    background-color: rgb(180, 180, 180);
     color: rgba(46,46,46, 1);
 }
 
 #about a:hover,
 #about a:focus {
     text-decoration: none;
+    background-color: rgb(200, 200, 200);
     color: rgba(0, 0, 0, 1);
 }
 
