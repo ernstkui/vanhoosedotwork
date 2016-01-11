@@ -49,7 +49,7 @@ canonifyUrls = true
 		description = "Hi! My name is Katherine and I am an American currently based in Utrecht, the Netherlands. I am a designer and researcher with a passion for cities. I combine the structured methods of social science with the creativity of design in projects related to the built environment. This approach includes communication, graphic and analytical skills, which I have developed over the past six years in both professional and academic contexts. I have found this approach to be valuable on a number of scales and for a variety of projects. For an idea of what this approach can mean for you, please see [the services](#services) below or some of [my work](#portfolio). Let's get in touch!"
 
 		buttonText  = "Download CV"
-		buttonUrl = 'https://www.dropbox.com/s/ny8vo1fpan1j9df/VanHoose_CV.pdf/?raw=1'
+		buttonUrl = 'https://www.dropbox.com/s/mp428d2j0uj62by/KatherineVanHoose_CV.pdf/?raw=1'
 
 	# Service section
 	[params.services]
