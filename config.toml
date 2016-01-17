@@ -21,7 +21,7 @@ canonifyUrls = true
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Katherine VanHoose"
-	description = "Editor Translator Designer Sociologist with a passion for cities"
+	description = "Freelance editor, designer and consultant for topics related to the built environment."
 
 	# Navigation
 	[params.navigation]
@@ -46,7 +46,7 @@ canonifyUrls = true
 	[params.about]
 		headline    = "VanHooseDotWork"
 		profilePicture = "IMG_4585.jpg"
-		description = "Hi! My name is Katherine and I am an American currently based in Utrecht, the Netherlands. I am a designer and researcher with a passion for cities. I combine the structured methods of social science with the creativity of design in projects related to the built environment. This approach includes communication, graphic and analytical skills, which I have developed over the past six years in both professional and academic contexts. I have found this approach to be valuable on a number of scales and for a variety of projects. For an idea of what this approach can mean for you, please see [the services](#services) below or some of [my work](#portfolio). Let's get in touch!"
+		description = "Hi! My name is Katherine and I am an American currently based in Utrecht, the Netherlands. I am a designer and researcher with a passion for cities. I combine the structured methods of social science with the creativity of design in projects related to the built environment. This approach includes communication, graphic and analytical skills, which I have developed over the past six years in both professional and academic contexts. I have found this approach to be valuable for a variety of projects and for a number of clients. For an idea of what I can do for you, please see [the services](#services) below or check out [my work](#portfolio) for an example of the topics that keep me busy and excited. Let's get in touch!"
 
 		buttonText  = "Download CV"
 		buttonUrl = 'https://www.dropbox.com/s/mp428d2j0uj62by/KatherineVanHoose_CV.pdf/?raw=1'
@@ -58,16 +58,17 @@ canonifyUrls = true
         [[params.services.list]]
             icon = "fa-file-text-o"
             title = "Editing"
-            description = "I have edited and translated (Dutch to English) a variety of written publications concerning themes related to the built environment on behalf of academic authors, non-profits, small businesses and individuals. A fast and high-quality edit of your English publication, project proposal, article or text."
+            description = "I have edited and translated (Dutch to English) a variety of written publications concerning topics related to the built environment on behalf of academic authors, non-profits, small businesses and individuals. A fast and high-quality edit of your English publication, project proposal, article or text."
 
 		[[params.services.list]]
             icon = "fa-lightbulb-o"
             title = "Consulting"
-            description = "I have collaborated on a number of projects that involve researching complex issues found in the built environment. My method of work is hands on: researching and defining the problem, organizing and communicating with multiple parties, searching for feasable and reasonable solutions and circulating results."
+            description = "Every project is unique and requires an approach that fits the specific context,  question, those inolved and the possible solutions. My method of work is hands on: researching and defining the problem, organizing and communicating with multiple parties, searching for feasable and reasonable solutions and circulating results. Let's get in touch to see what this approach can offer you."
+
         [[params.services.list]]
-			icon = "fa-pencil"
+			icon = "fa-picture-o"
 			title = "Designing"
-			description = "As a trained designer, I understand the importance (and advantage) of presenting material in a visually appealing way. My experience lies in the creation of maps, communicative diagrams and layout design. Let’s think together to find the best way to present your work."
+			description = "As a trained designer, I understand the importance (and advantage) of presenting material in a visually appealing way. My experience lies in the creation of communicative diagrams, layout design and marketing materials, including posters and logos. Let’s think together to find the best way to present your work."
 
     # Portfolio modals
 	[params.portfolio.modal]
@@ -85,5 +86,5 @@ canonifyUrls = true
 		twitter = "katevanhoose"
 		instagram = "kavanhoose"
 		kvknumber = "64862844"
-		pictures = "Let's Talk About the Polders Again, Merten Nefs. (re) Making City, Magnus Lundqvist"
+		pictures = "Let's Talk About the Polders Again, Merten Nefs; (re) Making City, Magnus Lundqvist"
 
