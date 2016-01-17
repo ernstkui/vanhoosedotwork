@@ -27,7 +27,7 @@ hr.light {
 
 a, a:focus {
     outline: 0;
-    color: rgba(46,46,46,.7);
+    color: rgba(9, 9, 9, 0.7);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -38,7 +38,7 @@ a:hover {
 }
 
 #about a {
-    background-color: rgb(180, 180, 180);
+    background-color: rgb(244, 244, 244);
     color: rgba(46,46,46, 1);
 }
 
@@ -51,7 +51,7 @@ a:hover {
 
 p.section-a-page-scroll > a,
 .modal-body a {
-    background-color: rgba(255, 231, 99, 0.8) !important;
+    background-color: rgba(255, 241, 111, 0.8) !important;
     padding: 2px;
 }
 
@@ -116,7 +116,7 @@ p {
 }
 
 .bg-primary {
-    background-color: white;
+    background-color: rgb(253, 252, 255);
 }
 
 .bg-dark {
@@ -134,7 +134,7 @@ p {
 
 section {
     padding: 60px 0;
-    background: white;
+    background: rgb(253, 252, 255);
 }
 
 section#contact {
@@ -461,7 +461,7 @@ header .header-content .header-content-inner p {
 }
 
 .text-primary {
-    color: rgba(46,46,46,.7);
+    color: rgba(193, 193, 186, 0.7);
 }
 
 .no-gutter > [class*=col-] {
@@ -580,11 +580,11 @@ fieldset[disabled] .btn-primary.active {
     border-radius: 20px;
     text-transform: uppercase;
     font-family: 'Lato', sans-serif;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .btn-xl {
-    padding: 10px 20px;
+    padding: 8px 22px;
 }
 
 ::-moz-selection {
