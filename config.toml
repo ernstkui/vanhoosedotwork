@@ -46,27 +46,27 @@ canonifyUrls = true
 	[params.about]
 		headline    = "VanHooseDotWork"
 		profilePicture = "IMG_4585.jpg"
-		description = "Hi! My name is Katherine and I am an American currently based in Utrecht, the Netherlands. I am a designer and researcher with a passion for cities. I combine the structured methods of social science with the creativity of design in projects related to the built environment. This approach includes communication, graphic and analytical skills, which I have developed over the past six years in both professional and academic contexts. I have found this approach to be valuable for a variety of projects and for a number of clients. For an idea of what I can do for you, please see [the services](#services) below or check out [my work](#portfolio) for an example of the topics that keep me busy and excited. Let's get in touch!"
+		description = "Hi! My name is Katherine and I am an American currently based in Utrecht, the Netherlands. I am a designer and researcher with a passion for projects in the built environment. My approach includes communication, graphic and analytical skills, which I have developed over the past six years in both professional and academic contexts. I have found this approach to be valuable for a variety of projects and for a number of clients. For an idea of what I can do for you, please see [the services](#services) below or check out [my work](#portfolio) for an example of the topics that keep me busy and excited. Let's get in touch!"
 
 		buttonText  = "Download CV"
-		buttonUrl = 'https://www.dropbox.com/s/mp428d2j0uj62by/KatherineVanHoose_CV.pdf/?raw=1'
+		buttonUrl = 'https://www.dropbox.com/s/ny8vo1fpan1j9df/VanHoose_CV.pdf?raw=1'
 
 	# Service section
 	[params.services]
 		headline = "Services"
 
         [[params.services.list]]
-            icon = "fa-file-text-o"
+            icon = "icon-editingicon"
             title = "Editing"
             description = "I have edited and translated (Dutch to English) a variety of written publications concerning topics related to the built environment on behalf of academic authors, non-profits, small businesses and individuals. A fast and high-quality edit of your English publication, project proposal, article or text."
 
 		[[params.services.list]]
-            icon = "fa-lightbulb-o"
+            icon = "icon-consultingicon"
             title = "Consulting"
-            description = "Every project is unique and requires an approach that fits the specific context,  question, those inolved and the possible solutions. My method of work is hands on: researching and defining the problem, organizing and communicating with multiple parties, searching for feasable and reasonable solutions and circulating results. Let's get in touch to see what this approach can offer you."
+            description = "Every project is unique and requires an approach that fits the specific context,  question, those inolved and the possible solutions. My method of work is hands-on: researching and defining the problem, organizing and communicating with multiple parties, searching for feasable and reasonable solutions and circulating results. Let's get in touch to see what this approach can offer you."
 
         [[params.services.list]]
-			icon = "fa-picture-o"
+			icon = "icon-designingicon"
 			title = "Designing"
 			description = "As a trained designer, I understand the importance (and advantage) of presenting material in a visually appealing way. My experience lies in the creation of communicative diagrams, layout design and marketing materials, including posters and logos. Let’s think together to find the best way to present your work."
 
@@ -84,7 +84,6 @@ canonifyUrls = true
 		phone = "+31 (0)6 38 32 68 78"
 		email = "kavanhoose@gmail.com"
 		twitter = "katevanhoose"
-		instagram = "kavanhoose"
-		kvknumber = "64862844"
+		instagram = "64862844"
 		pictures = "Let's Talk About the Polders Again, Merten Nefs; (re) Making City, Magnus Lundqvist"
 
