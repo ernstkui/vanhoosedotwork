@@ -57,18 +57,18 @@ canonifyUrls = true
 
         [[params.services.list]]
             icon = "icon-editingicon"
-            title = "Editing"
-            description = "I have edited and translated (Dutch to English) a variety of written publications concerning topics related to the built environment on behalf of academic authors, non-profits, small businesses and individuals. A fast and high-quality edit of your English publication, project proposal, article or text."
+            title = "Communication"
+            description = "Your written work can be strengthened by my expertise in editing and translating. Projects in the built environment revolve around communication, whether it be written or verbal. Strongly expressing your ideas and connecting with others is a crucial factor. I also offer my skills as a verbal communicator to negotatiate and reach agreements. Let’s begin our collaboartion with an open dialogue."
 
 		[[params.services.list]]
             icon = "icon-consultingicon"
-            title = "Consulting"
-            description = "Every project is unique and requires an approach that fits the specific context,  question, those inolved and the possible solutions. My method of work is hands-on: researching and defining the problem, organizing and communicating with multiple parties, searching for feasable and reasonable solutions and circulating results. Let's get in touch to see what this approach can offer you."
+            title = "Research"
+            description = "I use my skills to map the problem, going deep into your research topic and giving attention to underlying aspects. Asking the right questions and critically analyzing the answers: that is what my approach is all about. Every project is unique and requires a specific approach for establishing solutions. Let's get in touch to find out the best way to research the central issue of your project."
 
         [[params.services.list]]
 			icon = "icon-designingicon"
-			title = "Designing"
-			description = "As a trained designer, I understand the importance (and advantage) of presenting material in a visually appealing way. My experience lies in the creation of communicative diagrams, layout design and marketing materials, including posters and logos. Let’s think together to find the best way to present your work."
+			title = "Design"
+			description = "I can translate your ideas and results into visually strong deliverables. A strong visual appearance is the better half of your content. Whether it be communicative diagrams, layout design and marketing materials, let’s think together to find the best way to visually express your work when words are at a minimum."
 
     # Portfolio modals
 	[params.portfolio.modal]
