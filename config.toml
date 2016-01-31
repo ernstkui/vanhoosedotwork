@@ -58,16 +58,19 @@ canonifyUrls = true
         [[params.services.list]]
             icon = "icon-editingicon"
             title = "Communication"
+            tags = Editing, translating and consulting
             description = "Your written work can be strengthened by my expertise in editing and translating. Projects in the built environment revolve around communication, whether it be written or verbal. Strongly expressing your ideas and connecting with others is a crucial factor. I also offer my skills as a verbal communicator to negotatiate and reach agreements. Let’s begin our collaboartion with an open dialogue."
 
 		[[params.services.list]]
             icon = "icon-consultingicon"
             title = "Research"
+            tags = Fieldwork, deskwork and analysis
             description = "I use my skills to map the problem, going deep into your research topic and giving attention to underlying aspects. Asking the right questions and critically analyzing the answers: that is what my approach is all about. Every project is unique and requires a specific approach for establishing solutions. Let's get in touch to find out the best way to research the central issue of your project."
 
         [[params.services.list]]
 			icon = "icon-designingicon"
 			title = "Design"
+			tags = Consulting, creating and producing
 			description = "I can translate your ideas and results into visually strong deliverables. A strong visual appearance is the better half of your content. Whether it be communicative diagrams, layout design and marketing materials, let’s think together to find the best way to visually express your work when words are at a minimum."
 
     # Portfolio modals
