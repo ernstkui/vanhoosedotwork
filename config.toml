@@ -59,19 +59,19 @@ canonifyUrls = true
             icon = "icon-editingicon"
             title = "Communication"
             tags = "Editing, translating and consulting"
-            description = "Your written work can be strengthened by my expertise in editing and translating. Projects in the built environment revolve around communication, whether it be written or verbal. Strongly expressing your ideas and connecting with others is a crucial factor. I also offer my skills as a verbal communicator to negotatiate and reach agreements. Let’s begin our collaboartion with an open dialogue."
+            description = "Your written work can be strengthened by my expertise in editing and translating. I can also bring my verbal skills to consult, negotatiate and reach agreements. Projects in the built environment revolve around communication, whether it be written or verbal. Strongly expressing your ideas and connecting with others is a crucial factor. Let’s begin our collaboration with an open dialogue about your work and goals."
 
 		[[params.services.list]]
             icon = "icon-consultingicon"
             title = "Research"
             tags = "Fieldwork, deskwork and analysis"
-            description = "I use my skills to map the problem, going deep into your research topic and giving attention to underlying aspects. Asking the right questions and critically analyzing the answers: that is what my approach is all about. Every project is unique and requires a specific approach for establishing solutions. Let's get in touch to find out the best way to research the central issue of your project."
+            description = "I can bring my expertise skills to map the problem, going deep into your research topic and giving attention to underlying aspects. Asking the right questions and critically analyzing the results: that is what my approach is all about. Every project is unique and requires a specific approach for establishing solutions. Let's get in touch to find out the best way to research the central issue of your project."
 
         [[params.services.list]]
 			icon = "icon-designingicon"
 			title = "Design"
 			tags = "Consulting, creating and producing"
-			description = "I can translate your ideas and results into visually strong deliverables. A strong visual appearance is the better half of your content. Whether it be communicative diagrams, layout design and marketing materials, let’s think together to find the best way to visually express your work when words are at a minimum."
+			description = "I can translate your ideas and results into visually strong deliverables. A strong visual appearance is the better half of your content. Whether it be communicative diagrams, layout design or marketing materials, let’s think together to find the best way to visually express your work when words are at a minimum."
 
     # Portfolio modals
 	[params.portfolio.modal]
@@ -83,7 +83,7 @@ canonifyUrls = true
 	# Contact section
 	[params.contact]
 		headline = "Let's work together."
-		description = "VanHooseDotWork is always open to new collaborations and projects. If you would like to get a quote or learn a bit more about the services I offer, please feel free to contact me."
+		description = "VanHooseDotWork is always open to new collaborations and projects. If you would like to get a quote, learn a bit more about the services I offer, or grab a cup of coffee, feel free to contact me."
 		phone = "+31 (0)6 38 32 68 78"
 		email = "kavanhoose@gmail.com"
 		twitter = "katevanhoose"
