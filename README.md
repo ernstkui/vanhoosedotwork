@@ -33,6 +33,23 @@ Open your browser and go to:
 
 	localhost:1313
 
+
+##Images
+
+Portfolio images have a 4:3 aspect ratio. They should be in `static/img`. Install imagemagick mogrify and in
+that dir use:
+
+	mogrify -resize 750x450 thumbnails/*
+
+And:
+
+	mogrify -resize 750x450 *.jpg
+
+And:
+
+	mogrify -resize 750x450 *.jpg
+
+
 ##Deploy
 
 Fetch the deployment script into the root of your source tree, make it executable.
