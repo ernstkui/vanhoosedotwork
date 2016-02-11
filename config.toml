@@ -46,10 +46,10 @@ canonifyUrls = true
 	[params.about]
 		headline    = "VanHooseDotWork"
 		profilePicture = "IMG_4585.jpg"
-		description = "Hi! My name is Katherine and I am an American currently based in Utrecht, the Netherlands. I am a designer and researcher with a passion for projects in the built environment. My approach includes communication, graphic and analytical skills, which I have developed over the past six years in both professional and academic contexts. I have found this approach to be valuable for a variety of projects and for a number of clients. For an idea of what I can do for you, please see [the services](#services) below or check out [my work](#portfolio) for an example of the topics that keep me busy and excited. Let's get in touch!"
+		description = "Hi! My name is Katherine and I am an American currently based in Utrecht, the Netherlands. I am a designer and researcher with a passion for creating and seeing-through sustainable change in cities. My approach includes communication, graphic and analytical skills, which I have developed over the past six years in both professional and academic contexts. I have found this approach to be valuable for a variety of projects and for a number of clients. For an idea of what I can do for you, please see [the services](#services) below or check out [my work](#portfolio) for an example of the topics that keep me busy and excited. Let's get in touch!"
 
 		buttonText  = "Download CV"
-		buttonUrl = 'https://www.dropbox.com/s/ny8vo1fpan1j9df/VanHoose_CV.pdf?raw=1'
+		buttonUrl = 'https://www.dropbox.com/s/nvgi3qt10d0bi6l/VanHoose_CV_ENG_Recent.pdf?raw=1'
 
 	# Service section
 	[params.services]
@@ -65,13 +65,13 @@ canonifyUrls = true
             icon = "icon-consultingicon"
             title = "Research"
             tags = "Fieldwork, deskwork and analysis"
-            description = "I can bring my expertise skills to map the problem, going deep into your research topic and giving attention to underlying aspects. Asking the right questions and critically analyzing the results: that is what my approach is all about. Every project is unique and requires a specific approach for establishing solutions. Let's get in touch to find out the best way to research the central issue of your project."
+            description = "I bring my observation and analytical skills to map your problem, going deep into your topic or issue and giving attention to underlying aspects. Asking the right questions and critically analyzing the results: that is what my approach is all about. Every project is unique and requires a specific approach for establishing solutions. Let's get in touch to find out the best way to research the central issue of your project."
 
         [[params.services.list]]
 			icon = "icon-designingicon"
 			title = "Design"
 			tags = "Consulting, creating and producing"
-			description = "I can translate your ideas and results into visually strong deliverables. A strong visual appearance is the better half of your content. Whether it be communicative diagrams, layout design or marketing materials, let’s think together to find the best way to visually express your work when words are at a minimum."
+			description = "I can translate your ideas and complex qualitative and quantitative data and concepts into clear and compelling print and digital materials. A strong visual appearance is the better half of already strong content. Whether it be communicative diagrams, layout design or marketing materials, let’s think together to find the best way to visually express your work when words are at a minimum."
 
     # Portfolio modals
 	[params.portfolio.modal]
