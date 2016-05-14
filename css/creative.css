@@ -137,6 +137,11 @@ p {
     margin-bottom: 3px;
 }
 
+/* To correct long email address */
+.left-correction {
+    margin-left: -12px;
+}
+
 .contacts-wrapper div {
     margin-top: 25px;
 }
