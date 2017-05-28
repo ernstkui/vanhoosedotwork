@@ -59,7 +59,7 @@ canonifyUrls = true
             icon = "icon-editingicon"
             title = "Communication"
             tags = "Editing, translating and consulting"
-            description = "Your written work can be strengthened by my expertise in editing and translating. I can also bring my verbal skills to consult, negotatiate and reach agreements. Projects in the built environment revolve around communication, whether it be written or verbal. Strongly expressing your ideas and connecting with others is a crucial factor. Let’s begin our collaboration with an open dialogue about your work and goals."
+            description = "Your project can be strengthened by my expertise in editing and translating (Dutch to English). I can also bring my verbal skills to organize workshops or day events. Projects in the built environment revolve around communication, whether it be written or verbal. Strongly expressing your ideas and connecting with others is a crucial factor. Let’s begin our collaboration with an open dialogue about your work and goals."
 
 		[[params.services.list]]
             icon = "icon-consultingicon"
