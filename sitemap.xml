@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ernstkui.github.io/vanhoosedotwork/categories/</loc>
+    <loc>http://vanhoose.work/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ernstkui.github.io/vanhoosedotwork/tags/</loc>
+    <loc>http://vanhoose.work/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ernstkui.github.io/vanhoosedotwork/</loc>
+    <loc>http://vanhoose.work/</loc>
     <priority>0</priority>
   </url>
   

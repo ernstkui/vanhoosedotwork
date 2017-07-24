@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vanhoosedotwork</title>
-    <link>http://ernstkui.github.io/vanhoosedotwork/</link>
+    <link>http://vanhoose.work/</link>
     <description>Recent content on vanhoosedotwork</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://ernstkui.github.io/vanhoosedotwork/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vanhoose.work/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
