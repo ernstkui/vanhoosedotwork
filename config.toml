@@ -1,4 +1,4 @@
-baseurl = "http://ernstkui.github.io/vanhoosedotwork/"
+baseurl = "http://vanhoose.work/"
 languageCode = "en-us"
 title = "vanhoosedotwork"
 theme = "hugo-creative-theme"
@@ -89,4 +89,3 @@ canonifyUrls = true
 		twitter = "katevanhoose"
 		kvknumber = "64 86 28 44"
 		pictures = "Let's Talk About the Polders Again, Merten Nefs; (re) Making City, Magnus Lundqvist"
-
